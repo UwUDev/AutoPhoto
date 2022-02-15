@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoPhoto</string>
+    <string name="tab_text_1">Phones</string>
+    <string name="tab_text_2">Rules</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_add_phone">Add phone</string>
+</resources>
